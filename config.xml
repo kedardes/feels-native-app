@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.jethaus.feels"
+    versionCode = "10"
+    version     = "0.2.0" >
+
+  <name>Feels</name>
+
+  <description>
+      Feels - A Weather App
+  </description>
+
+  <author href="https://jethaus.com" email="kedar028@gmail.com">
+      Kedar Deshpande
+  </author>
+
+  <icon src="icon.png" />
+  <splash src="icon.png" />
+
+</widget>
